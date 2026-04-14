@@ -1,10 +1,10 @@
-# 🎱 Greek Joker Lottery — Statistical Fairness Analysis
+# Greek Joker Lottery — Statistical Fairness Analysis
 
 A rigorous, end-to-end statistical investigation of the **Greek Joker lottery** (1997–2024) using 27+ years of official OPAP historical draw data.
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 This project applies a battery of classical and simulation-based statistical tests to answer one question:
 
@@ -14,7 +14,7 @@ This project applies a battery of classical and simulation-based statistical tes
 
 ---
 
-## 📊 Tests & Methods
+##  Tests & Methods
 
 | # | Test | Method | Scope |
 |---|------|--------|-------|
